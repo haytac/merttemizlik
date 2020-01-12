@@ -1,0 +1,35 @@
+url: https://y7kim.github.io
+baseurl: /agency-jekyll-theme/
+
+# Site settings
+title: Mert Temizlik
+email: merttemizlik22@gmail.com
+description: "Tüm Temizlik işlerinde güvenle tercih edebileceğiniz tek şirket"
+
+
+# Team names, titles and social links
+people:
+- name: Mert Başak
+  pic: 1
+  position: Yönetici
+  # social:
+  #   - title: twitter
+  #     url: #
+  #   - title: facebook
+  #     url: #
+  #   - title: stack-overflow
+  #     url: #
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: facebook
+    url: https://www.facebook.com/Mert-Temizlik-101680891376116/?modal=admin_todo_tour
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 22800 Kunduracılar Caddesi 
+  - line: Keşan - Edirne
+
+# Build settings
+markdown: kramdown
+permalink: pretty

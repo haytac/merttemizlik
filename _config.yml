@@ -1,5 +1,5 @@
- url: https://relaxed-newton-241fb7.netlify.com/
- baseurl: /
+ url: https://relaxed-newton-241fb7.netlify.com
+ baseurl: /_site
 
 # Site settings
 title: Mert Temizlik

@@ -1,5 +1,5 @@
- url:  https://merttemizlik.com
- baseurl: /
+#url: https://y7kim.github.io
+#baseurl: /agency-jekyll-theme/
 
 # Site settings
 title: Mert Temizlik
@@ -10,7 +10,7 @@ description: "Tüm Temizlik işlerinde güvenle tercih edebileceğiniz tek şirk
 # Team names, titles and social links
 people:
 - name: Mert Başak
-  pic: 2
+  pic: 1
   position: Yönetici
   # social:
   #   - title: twitter
